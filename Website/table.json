@@ -1,0 +1,55 @@
+[{
+    "table" : "A1",
+    "status" : "available"
+},
+{
+    "table" : "A2",
+    "status" : "available"
+    
+},
+{
+    "table" : "A3",
+    "status" : "available"
+    
+},
+{
+    "table" : "B1",
+    "status" : "available"
+    
+},
+{
+    "table" : "B2",
+    "status" : "available"
+    
+},
+{
+    "table" : "B3",
+    "status" : "available"
+    
+},
+{
+    "table" : "C1",
+    "status" : "available"
+    
+},
+{
+    "table" : "C2",
+    "status" : "available"
+    
+},
+{
+    "table" : "C3",
+    "status" : "available"
+    
+},
+{
+    "table" : "C4",
+    "status" : "available"
+    
+},
+{
+    "table" : "C5",
+    "status" : "available"
+    
+}
+]
