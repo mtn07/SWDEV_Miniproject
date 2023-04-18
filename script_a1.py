@@ -33,8 +33,8 @@ def on_message(client, userdata, message):
                 'date': datetime.datetime.now().strftime('%m/%d/%Y'),
                 'time': datetime.datetime.now().strftime('%H:%M:%S PM'),
                 'status' = 'unavailable',
-                'table' : [A1],
-                'name': 'Table A1 Sensor',
+                'table' : [C2],
+                'name': 'Table C2 Sensor',
                 'code': '0001'
             }
             collection.insert_one(data)
@@ -47,8 +47,8 @@ def on_message(client, userdata, message):
                 'date': datetime.datetime.now().strftime('%m/%d/%Y'),
                 'time': datetime.datetime.now().strftime('%H:%M:%S PM'),
                 'status' = 'available',
-                'table' : [A1],
-                'name': 'Table A1 Sensor',
+                'table' : [C2],
+                'name': 'Table C2 Sensor',
                 'code': '0002'
             }
             collection.insert_one(data)
