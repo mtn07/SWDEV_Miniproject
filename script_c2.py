@@ -12,7 +12,7 @@ collection = db['seating']
 APP_ID = 'c2856998-0eed-4f2b-a0f6-e0e5b8dfb591'
 KEY = 'st3DNqp6j8oSYhXJueKMZsBaY8zqpTpj'
 SECRET = '*-qy(iP9I3au6Ocj6lZxVf*9RVxS5bO6'
-TOPIC = '@msg/table_a1_noti'
+TOPIC = '@msg/table_c2_noti'
 
 # MQTT client setup
 mqttc = MQTTClient(client_id="any-string", clean_session=True, userdata=None)
