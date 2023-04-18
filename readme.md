@@ -1,4 +1,4 @@
-# frontend
+# Mini_Project
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+scripy_a1 for raspberry pi
