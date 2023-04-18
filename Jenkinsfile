@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Checkout') {
          steps {
-            // Checkout code from version control system
+            git 'https://github.com/mtn07/SWDEV_Miniproject.git'
          }
       }
       
