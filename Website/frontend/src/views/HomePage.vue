@@ -24,7 +24,7 @@
               <p class="navbar-item" style="margin-right: 40px">
                 <router-link to="/"
                   ><strong class="text" style="text-decoration-line: underline">
-                    Home
+                    Homepage
                   </strong></router-link
                 >
               </p>
